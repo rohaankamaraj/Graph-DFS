@@ -1,0 +1,11 @@
+start-graph 1987 1989
+out-degree
+diameter
+strongly-connected-components
+end-graph
+start-graph 1988 1989
+strongly-connected-components
+diameter
+out-degree
+end-graph
+exit
